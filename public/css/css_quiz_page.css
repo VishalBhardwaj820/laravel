@@ -1,0 +1,148 @@
+#header {
+    height: 50px;
+    width: 100%;
+    background-color: #143066;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.abs {
+    position: absolute;
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+#footer {
+    height: 50px;
+    width: 100%;
+    background-color: #E7E7E7;
+}
+
+span {
+    display: inline-block;
+    margin: 0px;
+}
+
+#main-div {
+    height: 640px;
+    width: 100%;
+    box-sizing: border-box;
+    /* background-color: yellow; */
+}
+
+#main-section {
+    height: 530px;
+    width: 100%;
+    background-color: white;
+}
+
+#side-section {
+    height: 520px;
+    width: 300px;
+    /* margin-left: 1040px; */
+    background-color: #BACDF2;
+    position: relative;
+}
+
+#side-section-header {
+    height: 60px;
+    width: 75%;
+    position: absolute;
+    background-color: #BACDF2;
+}
+
+#questiondiv {
+    height: 450px;
+    width: 76%;
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-top: 20px;
+    position: relative;
+    /* background-color: red; */
+}
+
+#question {
+    height: 100px;
+    width: 920px;
+    margin: 30px 40px 0px;
+    font-size: 25px;
+    border: 2px;
+    border-color: hotpink;
+    position: absolute;
+}
+
+li {
+    list-style: none;
+    font-size: 22px;
+    display: inline-block;
+    margin-left: 100px;
+    background-color: #122C5D;
+    /* border: 2px solid; */
+    padding: 10px;
+    height: 25px;
+    color: white;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: -13px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li a:link,
+li a:visited {
+    color: white;
+}
+
+#border1,
+#border2 {
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    background-color: #143066;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#border1 {
+    margin-top: 100px;
+}
+
+#border2 {
+    margin-top: 400px;
+}
+
+input[type="button"],
+input[type="submit"] {
+    border: none;
+    background: none;
+    cursor: pointer;
+    background-color: #122C5D;
+    color: white;
+    height: 30px;
+    font-size: 22px;
+    width: 200px;
+    margin-left: 400px;
+    display: inline-block;
+}
+
+li:hover {
+    background-color: blue;
+}
+
+input[type="submit"]:hover {
+    background-color: #D9534F;
+}
+
+input[type="submit"] {
+    /* margin-left: 380px; */
+    background-color: #B50202;
+}

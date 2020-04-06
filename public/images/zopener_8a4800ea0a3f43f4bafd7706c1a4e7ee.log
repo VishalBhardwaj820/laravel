@@ -1,0 +1,96 @@
+[5388:6788:2020-4-3 23:2:26.335] Main Start
+[5388:6788:2020-4-3 23:2:26.335] Command line:"C:\xampp\htdocs\quiz\quiz\public\images\Zoom_e6f9d3455dd23a3e.exe"  Instance:0xE50000 Show State:1
+[5388:6788:2020-4-3 23:2:26.355] C:\
+[5388:4492:2020-4-3 23:2:26.547] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[5388:6788:2020-4-3 23:2:26.567] [client_has_installed_app] found path:
+[5388:6788:2020-4-3 23:2:26.567]  ***NULL-POINTER-PLACEHOLDER***
+[5388:6788:2020-4-3 23:2:26.567] [param_query_local_path] path is: C:\Users\VISHAL BHARDWAJ\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[5388:6788:2020-4-3 23:2:26.567] [downloader_run] State:0
+[5388:7528:2020-4-3 23:2:26.567] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[5388:4492:2020-4-3 23:2:28.405] HttpSendRequest API failed1, error code: 12029
+[5388:7528:2020-4-3 23:2:28.405] HttpSendRequest API failed1, error code: 12029
+[5388:4492:2020-4-3 23:2:30.545] HttpSendRequest API failed, error code: 12029
+[5388:4492:2020-4-3 23:2:30.545] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[5388:7528:2020-4-3 23:2:30.545] HttpSendRequest API failed, error code: 12029
+[5388:7528:2020-4-3 23:2:30.545] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[5388:6788:2020-4-3 23:2:30.592] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[5388:4492:2020-4-3 23:2:30.592] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[5388:4492:2020-4-3 23:2:33.214] HttpSendRequest API failed1, error code: 12029
+[5388:4492:2020-4-3 23:2:36.386] HttpSendRequest API failed, error code: 12029
+[5388:4492:2020-4-3 23:2:36.386] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[5388:6788:2020-4-3 23:2:36.417] [client_has_installed_app] found path:
+[5388:6788:2020-4-3 23:2:36.417]  ***NULL-POINTER-PLACEHOLDER***
+[5388:6788:2020-4-3 23:2:41.40] [downloader_cancel] State:15
+[5388:6788:2020-4-3 23:2:41.40] Main End
+[6224:1116:2020-4-3 23:2:49.218] Main Start
+[6224:1116:2020-4-3 23:2:49.218] Command line:"C:\xampp\htdocs\quiz\quiz\public\images\Zoom_e6f9d3455dd23a3e (1).exe"  Instance:0x870000 Show State:1
+[6224:1116:2020-4-3 23:2:49.218] C:\
+[6224:6684:2020-4-3 23:2:49.374] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[6224:1116:2020-4-3 23:2:49.378] [client_has_installed_app] found path:
+[6224:1116:2020-4-3 23:2:49.378]  ***NULL-POINTER-PLACEHOLDER***
+[6224:1116:2020-4-3 23:2:49.378] [param_query_local_path] path is: C:\Users\VISHAL BHARDWAJ\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 0 system error: 183
+[6224:1116:2020-4-3 23:2:49.378] [downloader_run] State:0
+[6224:7872:2020-4-3 23:2:49.378] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[6224:7872:2020-4-3 23:2:51.671] HttpSendRequest API failed1, error code: 12029
+[6224:6684:2020-4-3 23:2:51.671] HttpSendRequest API failed1, error code: 12029
+[6224:6684:2020-4-3 23:2:53.278] HttpSendRequest API failed, error code: 12029
+[6224:6684:2020-4-3 23:2:53.278] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[6224:7872:2020-4-3 23:2:53.294] HttpSendRequest API failed, error code: 12029
+[6224:7872:2020-4-3 23:2:53.294] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[6224:6684:2020-4-3 23:2:53.341] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[6224:1116:2020-4-3 23:2:53.341] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[6224:6684:2020-4-3 23:2:54.685] HttpSendRequest API failed1, error code: 12029
+[6224:6684:2020-4-3 23:2:56.868] HttpSendRequest API failed, error code: 12029
+[6224:6684:2020-4-3 23:2:56.868] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[6224:1116:2020-4-3 23:2:56.915] [client_has_installed_app] found path:
+[6224:1116:2020-4-3 23:2:56.915]  ***NULL-POINTER-PLACEHOLDER***
+[6224:1116:2020-4-3 23:3:10.178] [downloader_retry] State:15
+[6224:6684:2020-4-3 23:3:10.178] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[6224:7872:2020-4-3 23:3:10.178] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[6224:6684:2020-4-3 23:3:11.804] HttpSendRequest API failed1, error code: 12029
+[6224:7872:2020-4-3 23:3:11.804] HttpSendRequest API failed1, error code: 12029
+[6224:7872:2020-4-3 23:3:13.402] HttpSendRequest API failed, error code: 12029
+[6224:7872:2020-4-3 23:3:13.403] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[6224:6684:2020-4-3 23:3:13.414] HttpSendRequest API failed, error code: 12029
+[6224:6684:2020-4-3 23:3:13.414] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[6224:1116:2020-4-3 23:3:13.421] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[6224:1116:2020-4-3 23:3:13.426] [client_has_installed_app] found path:
+[6224:1116:2020-4-3 23:3:13.426]  ***NULL-POINTER-PLACEHOLDER***
+[6224:1116:2020-4-3 23:3:37.430] [downloader_retry] State:15
+[6224:6684:2020-4-3 23:3:37.430] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[6224:7872:2020-4-3 23:3:37.430] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[6224:6684:2020-4-3 23:3:38.993] HttpSendRequest API failed1, error code: 12029
+[6224:7872:2020-4-3 23:3:38.993] HttpSendRequest API failed1, error code: 12029
+[6224:7872:2020-4-3 23:3:40.825] HttpSendRequest API failed, error code: 12029
+[6224:6684:2020-4-3 23:3:40.825] HttpSendRequest API failed, error code: 12029
+[6224:7872:2020-4-3 23:3:40.825] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[6224:6684:2020-4-3 23:3:40.825] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[6224:1116:2020-4-3 23:3:40.872] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[6224:1116:2020-4-3 23:3:40.872] [client_has_installed_app] found path:
+[6224:1116:2020-4-3 23:3:40.872]  ***NULL-POINTER-PLACEHOLDER***
+[6224:1116:2020-4-3 23:5:13.479] [downloader_retry] State:15
+[6224:6684:2020-4-3 23:5:13.479] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[6224:7872:2020-4-3 23:5:13.479] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[6224:6684:2020-4-3 23:5:15.322] HttpSendRequest API failed1, error code: 12029
+[6224:7872:2020-4-3 23:5:15.322] HttpSendRequest API failed1, error code: 12029
+[6224:6684:2020-4-3 23:5:16.861] HttpSendRequest API failed, error code: 12029
+[6224:6684:2020-4-3 23:5:16.861] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[6224:7872:2020-4-3 23:5:16.877] HttpSendRequest API failed, error code: 12029
+[6224:7872:2020-4-3 23:5:16.877] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[6224:1116:2020-4-3 23:5:16.908] [client_has_installed_app] found path:
+[6224:1116:2020-4-3 23:5:16.908]  ***NULL-POINTER-PLACEHOLDER***
+[6224:1116:2020-4-3 23:5:16.908] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[6224:1116:2020-4-3 23:6:9.174] [downloader_retry] State:15
+[6224:6684:2020-4-3 23:6:9.174] [process_requst] start, url:https://launcher.zoom.us/conf/pui
+[6224:7872:2020-4-3 23:6:9.174] [process_requst] start, url:https://launcher.zoom.us/upgrade?os=win
+[6224:6684:2020-4-3 23:6:11.948] HttpSendRequest API failed1, error code: 12029
+[6224:7872:2020-4-3 23:6:11.948] HttpSendRequest API failed1, error code: 12029
+[6224:6684:2020-4-3 23:6:13.557] HttpSendRequest API failed, error code: 12029
+[6224:6684:2020-4-3 23:6:13.557] [process_requst] End for url:https://launcher.zoom.us/conf/pui, return code:0, Error:1006, Response content size:0
+[6224:7872:2020-4-3 23:6:13.557] HttpSendRequest API failed, error code: 12029
+[6224:7872:2020-4-3 23:6:13.557] [process_requst] End for url:https://launcher.zoom.us/upgrade?os=win, return code:0, Error:1006, Response content size:0
+[6224:1116:2020-4-3 23:6:13.620] [client_has_installed_app] found path:
+[6224:1116:2020-4-3 23:6:13.620]  ***NULL-POINTER-PLACEHOLDER***
+[6224:1116:2020-4-3 23:6:13.620] [handle_download_job_done] Index: 0 Curr index: 0 StatusCode: 0 Error: 1006 Response is Empty. 
+[6224:1116:2020-4-3 23:6:16.54] [downloader_cancel] State:15
+[6224:1116:2020-4-3 23:6:16.54] Main End

@@ -1,0 +1,142 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+#maindiv {
+    height: 500px;
+    width: 100%;
+    /* background: linear-gradient(45deg, #210372, rgb(17, 80, 214), #7608d1); */
+    background-color: #341f97;
+}
+
+#maindiv2 {
+    background-color: #F2F1F2;
+}
+
+#info ul {
+    display: inline-block;
+    list-style: none;
+}
+
+li,
+h1,
+h3 {
+    display: inline-block;
+}
+
+#DP {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-top: 40px;
+    background: white;
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: blue;
+}
+
+#name h1 {
+    margin-left: 270px;
+    margin-top: 100px;
+}
+
+#DP p {
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.info {
+    border: 2px solid #F5F5F5;
+    padding: 13px;
+    height: 150px;
+    font-size: 22px;
+    color: white
+}
+
+#test-head {
+    height: 60px;
+    width: 550px;
+    text-align: center;
+    background-color: #3895E1;
+    position: absolute;
+    margin-top: 210px;
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+    border: 1.5px solid black;
+    padding-top: 15px;
+    box-sizing: border-box;
+    margin-left: 380px;
+}
+
+#test-box {
+    height: 530px;
+    width: 100%;
+    background-color: #F5F5F5;
+    margin-top: 245px;
+    box-shadow: 10px 40px;
+}
+
+.test-show-box {
+    height: 130px;
+    background-color: white;
+    width: 420px;
+    display: inline-block;
+    margin-left: 120px;
+    margin-right: 50px;
+    margin-top: 70px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    border: 2px solid green;
+    border-top: 4px solid orange;
+    align-content: center;
+}
+
+.test-img {
+    color: #7682AA;
+    border: 2px solid grey;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 100px;
+    float: left;
+    margin-left: 10px;
+}
+
+#bottom-strip {
+    width: 100%;
+    height: 80px;
+    background: linear-gradient(45deg, #001135, #580479);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+l1,
+a {
+    list-style: none;
+    font-size: 30px;
+    margin-left: 13px;
+    text-decoration: none;
+    color: white;
+}
+
+#header {
+    background-color: #0D2A4A;
+    /* background: linear-gradient(to right, rgb(12, 226, 190), rgb(243, 171, 15), rgb(255, 22, 197)); */
+    height: 70px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+
+#header a:hover {
+    border-bottom: 2px solid yellow;
+}

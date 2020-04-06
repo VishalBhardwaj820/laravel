@@ -1,0 +1,112 @@
+#bg {
+    background-image: url("../images/guidepic.png");
+    height: 600px;
+    width: 100%;
+    /* margin: 60px 150px 0px; */
+}
+
+body {
+    background-color: grey;
+}
+
+#pic {
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    height: 60px;
+    width: 100%;
+    background-color: green;
+    color: white;
+    position: absolute;
+    text-align: center;
+}
+
+#one {
+    background-color: white;
+    height: 120px;
+    width: 300px;
+    position: absolute;
+    margin: 160px 420px;
+}
+
+#test {
+    margin-top: 3px;
+    height: 23px;
+    width: 300px;
+    font-size: 20px;
+}
+
+#numq {
+    height: 23px;
+    width: 300px;
+    margin-top: 8px;
+    font-size: 20px;
+}
+
+#time {
+    height: 23px;
+    width: 300px;
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+#neg {
+    margin-top: 8px;
+    height: 23px;
+    width: 300px;
+    font-size: 20px;
+}
+
+#footer {
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    color: white;
+    position: absolute;
+    margin: 700px 0px;
+    padding-bottom: 0px;
+}
+
+#start {
+    height: 50px;
+    width: 180px;
+    background-color: green;
+    margin: 693px 1480px 0px;
+    position: absolute;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+#back {
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    margin: 693px 10px 0px;
+    position: absolute;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+#tick {
+    background-color: teal;
+    position: absolute;
+    margin: 568px 866px;
+    height: 20px;
+    width: 20px;
+}
+
+#rub {
+    position: absolute;
+    background-color: white;
+    height: 30px;
+    width: 300px;
+    margin: 190px 1050px;
+}
